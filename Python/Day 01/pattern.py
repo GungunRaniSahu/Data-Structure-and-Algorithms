@@ -1,0 +1,9 @@
+# Right-angle triangle pattern
+rows = 5
+for i in range(1, rows + 1):
+    print("*" * i)
+
+# Pyramid pattern
+rows = 5
+for i in range(1, rows + 1):
+    print(" " * (rows - i) + "*" * (2 * i - 1))
