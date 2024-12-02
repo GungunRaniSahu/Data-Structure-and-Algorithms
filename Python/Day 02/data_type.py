@@ -15,8 +15,8 @@ my_tuple = (1, 2, 3)
 print(my_tuple, type(my_tuple))  # Output: (1, 2, 3) <class 'tuple'>
 
 # Dictionary
-my_dict = {"name": "Gungun", "age": 21}
-print(my_dict, type(my_dict))  # Output: {'name': 'Gungun', 'age': 21} <class 'dict'>
+my_dict = {"name": "Gungun", "age": 18}
+print(my_dict, type(my_dict))  # Output: {'name': 'Gungun', 'age': 18} <class 'dict'>
 
 # Set
 my_set = {1, 2, 3}
