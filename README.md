@@ -5,3 +5,10 @@ What's Inside? <br>
 Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs. <br>
 Algorithms: Sorting, Searching, Dynamic Programming, Graph Traversals, and more. <br>
 Challenges: Coding problems with solutions. <br>
+Contributing
+
+1. Fork the repository.
+
+2. Make changes and commit.
+
+3. Open a pull request.
