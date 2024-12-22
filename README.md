@@ -1,9 +1,7 @@
 <h1>Data Structure and Algorithms Repository</h1 
 Welcome to the DSA Repository! This repository is designed to help you learn and practice fundamental concepts of Data Structures and Algorithms.
 
-Contents
-
-Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, etc.
+<b>Data Structures: </b>  Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, etc.
 
 Algorithms: Sorting, Searching, Dynamic Programming, Graph Traversals, Greedy Algorithms, and more.
 
