@@ -13,3 +13,5 @@ Contributing
 2. Make changes and commit.
 
 3. Open a pull request.
+
+   Happy Coding!
