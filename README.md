@@ -3,7 +3,7 @@ Welcome to the DSA Repository! This repository is designed to help you learn and
 
 <b>Data Structures: </b>  Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, etc. <br>
 <b>Algorithms:</b> Sorting, Searching, Dynamic Programming, Graph Traversals, Greedy Algorithms, and more. <br>
-Problem-Solving: Includes coding challenges with solutions.
+<b>Problem-Solving: </b>Includes coding challenges with solutions.
 
 How to Use
 
