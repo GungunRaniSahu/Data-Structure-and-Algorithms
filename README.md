@@ -5,29 +5,21 @@ Welcome to the DSA Repository! This repository is designed to help you learn and
 <b>Algorithms:</b> Sorting, Searching, Dynamic Programming, Graph Traversals, Greedy Algorithms, and more. <br>
 <b>Problem-Solving: </b>Includes coding challenges with solutions.
 
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/username/dsa-repo.git
-
+How to Use <br>
+Clone the repository: git clone https://github.com/username/dsa-repo.git
 Navigate to the desired folder and explore the code.
-
 Run the examples in your preferred environment.
 
-Structure
+<b>Structure</b>
 
 Each folder contains:
 
-Code implementations
+Code implementations <br>
+Comments for clarity <br>
+<b>Contributing</b>
 
-Comments for clarity
-
-Test cases (where applicable)
-
-Contributing
-
-Contributions are welcome! To contribute:
+Contributions are welcome!<br> 
+To contribute:
 
 Fork the repository.
 
